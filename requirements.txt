@@ -4,4 +4,4 @@ plotly==5.14.1
 wordcloud==1.8.2.2
 matplotlib==3.6.3
 nltk==3.8.1
-prophet==1.1.1
+fbprophet>=0.7.1 
