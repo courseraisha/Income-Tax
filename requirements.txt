@@ -1,4 +1,4 @@
-fbprophet
+fbprophet==0.1.post1
 wordcloud
 streamlit>=1.0.0
 pandas>=1.4.0
