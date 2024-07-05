@@ -1,5 +1,5 @@
-fbprophet==1.1.2  
-wordcloud==1.8.1
+fbprophet
+wordcloud
 streamlit>=1.0.0
 pandas>=1.4.0
 plotly>=5.0.0
