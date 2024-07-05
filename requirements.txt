@@ -1,7 +1,19 @@
-fbprophet==0.1.post1
-wordcloud
-streamlit>=1.0.0
-pandas>=1.4.0
+# Time Series Forecasting
+fbprophet>=0.7.1  # Use 'fbprophet' instead of 'prophet'
+pystan<3.0 #PyStan version should be less than 3.0 to avoid compatibility issues
+
+# Core Web Application and Data Manipulation
+streamlit>=1.0.0  
+pandas>=1.4.0  
+
+# Visualization
 plotly>=5.0.0
 matplotlib>=3.5.0
+
+# Natural Language Processing (Optional - Include if needed)
 nltk>=3.7.0
+
+# Additional Libraries (If applicable)
+# Example:
+# scikit-learn>=1.0.0 # For machine learning models
+# scipy>=1.7.0       # For scientific computing
