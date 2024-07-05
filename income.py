@@ -37,7 +37,7 @@ def load_data(file_path):
     df.dropna(subset=['Clean_Title'], inplace=True)
     return df
 
-df = load_data("C:/Users/Admin/Desktop/SPAN COMMUNICATIONS/INCOME TAX/INCOME_TAX.xlsx")
+df = load_data("INCOME_TAX.xlsx")
 
 # Set title and description
 st.title("LISTENING OVERVIEW")
